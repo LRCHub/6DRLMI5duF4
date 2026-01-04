@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ケサランパサラン",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-01-04T12:46:03.786001Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ケサランパサラン",
+      "artist": "every❤ing !",
+      "has_synced": true,
+      "path": "select/01_ケサランパサラン_every❤ing_!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ケサランパサラン",
+      "artist": "every♥ing!",
+      "has_synced": true,
+      "path": "select/02_ケサランパサラン_every♥ing!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ケサランパサラン",
+      "artist": "everying!",
+      "has_synced": true,
+      "path": "select/03_ケサランパサラン_everying!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ケサランパサラン",
+      "artist": "sora tob sakana",
+      "has_synced": true,
+      "path": "select/04_ケサランパサラン_sora_tob_sakana.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ケサランパサラン",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/05_ケサランパサラン_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ケサランパサラン",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/06_ケサランパサラン_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ケサランパサラン",
+      "artist": "everying !",
+      "has_synced": false,
+      "path": "select/07_ケサランパサラン_everying_!.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ケサランパサラン",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_ケサランパサラン_DECO_27.txt"
+    }
+  ]
+}
